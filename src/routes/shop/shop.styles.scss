@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .products-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   column-gap: 10px;
   row-gap: 50px;
+=======
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 10px;
+  row-gap: 50px;
+>>>>>>> c808f9da6df0166434a2294a260f16ec10da800f
 }
